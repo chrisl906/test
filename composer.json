@@ -1,0 +1,7 @@
+{
+    "name": "nineosixtech/test-pkg",
+    "description": "This is a test package",
+    "require": {
+        "php": "^7.2"
+    }
+}
